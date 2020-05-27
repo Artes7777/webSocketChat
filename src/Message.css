@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@600&family=M+PLUS+Rounded+1c:wght@500&display=swap');
+
+.myMessage {
+  text-align: right;
+}
+
+.message {
+  display: inline-block;
+  font-family: 'Comfortaa', cursive;
+  background-color: mediumseagreen;
+  border: 1px solid mediumseagreen;
+  border-radius: 25px;
+  margin: 5px;
+  padding: 10px;
+}
+
+.notMymessage {
+  display: inline-block;
+  font-family: 'Comfortaa', cursive;
+  background-color: skyblue;
+  border: 1px solid skyblue;
+  border-radius: 25px;
+  margin: 5px;
+  padding: 10px;
+}
